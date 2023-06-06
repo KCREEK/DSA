@@ -4,7 +4,8 @@
    represented by airport name or name of the city.
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
 #include <ctime>
 
 using namespace std;
